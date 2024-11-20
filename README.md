@@ -6,6 +6,5 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m a Sofware Engineer
-- 📫 How to reach me: rizal@abjcloudsolutions.com
-- 😄 Pronouns: Rizal
+- 📫 You can reach me on rizal@abjcloudsolutions.com
 - ⚡ I do magic with my fingers.
